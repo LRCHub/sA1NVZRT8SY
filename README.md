@@ -1,4 +1,4 @@
-# Official髭男dism – Get Back To 人生 (Live)
+# Official髭男dism – Get Back To 人生
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
