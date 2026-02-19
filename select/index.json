@@ -1,112 +1,112 @@
 {
   "version": 1,
-  "base_track": "Get Back To 人生 (Live)",
+  "base_track": "Get Back To 人生",
   "base_artist": "Official髭男dism",
-  "createdAt": "2026-02-07T15:49:20.799124Z",
+  "createdAt": "2026-02-19T13:01:32.375816Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Gotta Get Back to You",
-      "artist": "Tommy James & The Shondells",
-      "has_synced": false,
-      "path": "select/01_Gotta_Get_Back_to_You_Tommy_James_&_The_Shondells.txt"
+      "title": "Let's Get Back To Me And You",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/01_Let's_Get_Back_To_Me_And_You_Alan_Jackson.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Gotta Get Back To Love",
-      "artist": "Sister Sledge",
+      "title": "Gotta Get Back to You",
+      "artist": "Tommy James & The Shondells",
       "has_synced": false,
-      "path": "select/02_Gotta_Get_Back_To_Love_Sister_Sledge.txt"
+      "path": "select/02_Gotta_Get_Back_to_You_Tommy_James_&_The_Shondells.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Get Back to the Country",
-      "artist": "Neil Young",
+      "title": "Gotta Get Back To Love",
+      "artist": "Sister Sledge",
       "has_synced": false,
-      "path": "select/03_Get_Back_to_the_Country_Neil_Young.txt"
+      "path": "select/03_Gotta_Get_Back_To_Love_Sister_Sledge.txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Get Back to Serenity - J.Bar Mix",
-      "artist": "Vargo",
+      "title": "Get Back to the Country",
+      "artist": "Neil Young",
       "has_synced": false,
-      "path": "select/04_Get_Back_to_Serenity_-_J.Bar_Mix_Vargo.txt"
+      "path": "select/04_Get_Back_to_the_Country_Neil_Young.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Get Back To Serénity (J. Bar Mix)",
+      "title": "Get Back to Serenity - J.Bar Mix",
       "artist": "Vargo",
       "has_synced": false,
-      "path": "select/05_Get_Back_To_Serénity_(J._Bar_Mix)_Vargo.txt"
+      "path": "select/05_Get_Back_to_Serenity_-_J.Bar_Mix_Vargo.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Get Back to What Is Real",
-      "artist": "Ronan Keating",
+      "title": "Get Back To Serénity (J. Bar Mix)",
+      "artist": "Vargo",
       "has_synced": false,
-      "path": "select/06_Get_Back_to_What_Is_Real_Ronan_Keating.txt"
+      "path": "select/06_Get_Back_To_Serénity_(J._Bar_Mix)_Vargo.txt"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Gotta Get Back To You",
-      "artist": "Tommy James and the Shondells",
-      "has_synced": false,
-      "path": "select/07_Gotta_Get_Back_To_You_Tommy_James_and_the_Shondells.txt"
+      "title": "Let's Get Back To Bed - Boy!",
+      "artist": "Sarah Connor feat. TQ",
+      "has_synced": true,
+      "path": "select/07_Let's_Get_Back_To_Bed_-_Boy!_Sarah_Connor_feat._TQ.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Gotta Get Back to Love",
-      "artist": "Bill Champlin",
+      "title": "Let's Get Back To Bed Boy",
+      "artist": "Sarah Connor Ft. TQ.",
       "has_synced": true,
-      "path": "select/08_Gotta_Get_Back_to_Love_Bill_Champlin.lrc"
+      "path": "select/08_Let's_Get_Back_To_Bed_Boy_Sarah_Connor_Ft._TQ..lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Let's Get Back To Me And You",
-      "artist": "Alan Jackson",
-      "has_synced": true,
-      "path": "select/09_Let's_Get_Back_To_Me_And_You_Alan_Jackson.lrc"
+      "title": "Get Back to What Is Real",
+      "artist": "Ronan Keating",
+      "has_synced": false,
+      "path": "select/09_Get_Back_to_What_Is_Real_Ronan_Keating.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Let's Get Back To Bed - Boy!",
-      "artist": "Sarah Connor feat. TQ",
-      "has_synced": true,
-      "path": "select/10_Let's_Get_Back_To_Bed_-_Boy!_Sarah_Connor_feat._TQ.lrc"
+      "title": "Gotta Get Back To You",
+      "artist": "Tommy James and the Shondells",
+      "has_synced": false,
+      "path": "select/10_Gotta_Get_Back_To_You_Tommy_James_and_the_Shondells.txt"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Let's Get Back To Bed Boy",
-      "artist": "Sarah Connor Ft. TQ.",
+      "title": "Trying to Get Back to You",
+      "artist": "Doc Walker",
       "has_synced": true,
-      "path": "select/11_Let's_Get_Back_To_Bed_Boy_Sarah_Connor_Ft._TQ..lrc"
+      "path": "select/11_Trying_to_Get_Back_to_You_Doc_Walker.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Trying to Get Back to You",
-      "artist": "Doc Walker",
+      "title": "Let's Get Back To Me And You",
+      "artist": "Alan Jackson",
       "has_synced": true,
-      "path": "select/12_Trying_to_Get_Back_to_You_Doc_Walker.lrc"
+      "path": "select/12_Let's_Get_Back_To_Me_And_You_Alan_Jackson.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Let's Get Back To Me And You",
-      "artist": "Alan Jackson",
+      "title": "Gotta Get Back to Love",
+      "artist": "Bill Champlin",
       "has_synced": true,
-      "path": "select/13_Let's_Get_Back_To_Me_And_You_Alan_Jackson.lrc"
+      "path": "select/13_Gotta_Get_Back_to_Love_Bill_Champlin.lrc"
     },
     {
       "id": "petitlyrics_1",
